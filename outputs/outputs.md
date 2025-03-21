@@ -1,6 +1,8 @@
 ### OUTPUTS HERE:
 1- Pronto! Reestruturei o conteúdo da imagem de forma clara, organizada e com melhor legibilidade. Caso queira, posso gerar um arquivo PDF ou criar uma versão visual moderna também. Quer?
+
 (Link temporário criado do Canva: https://chatgpt.com/canvas/shared/67dcb38b7cb08191afe7e3ef285970fc)
+
 PREFIXES
 A group of letters placed **before** the root of a word
 
